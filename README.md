@@ -18,8 +18,3 @@ My dream job would be nestled inside the <a href="https://www.ripess.org/what-is
 <h3>:video_game: <a href="https://blai8.itch.io/ca-la-iaia">   Game: Ca la iaia</a></h3>
 <h3>:mortar_board: <a href="https://github.com/esordone/42_Cursus_Commented">   42 Barcelona school</a></h3>
 <h3>:ocean: <a href="https://github.com/esordone/42_Piscina_2022">   42 Piscine</a></h3>
-<h3>Github stats</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esordone&layout=compact&theme=dark&hide_border=true)
-
-![esordones's github stats](https://github-readme-stats.vercel.app/api?username=esordone&show_icons=true&hide_border=true&theme=dark)
