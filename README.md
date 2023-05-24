@@ -28,7 +28,7 @@ I am currently continuing my work as painter and illustrator, and I'm studying p
       <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/exam%20rank%2002">Exam rank 02</a></b>: the first exam inside the cursus.</li>
       <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/push_swap">Push_swap</a></b>: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm.</li>
 </ul>
-## Github stats
+<h3>Github stats</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esordone&layout=compact&theme=dark&hide_border=true)
 
