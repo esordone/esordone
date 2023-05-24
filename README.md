@@ -15,6 +15,7 @@ I am currently continuing my work as painter and illustrator, and I'm studying p
 <h3>:art:<a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">   Art Portfolio</a></h3>
 <h3>Programming projects</h3>
 <h3>:mortar_board: <a href="https://github.com/esordone/42_Cursus_Commented">   42 Barcelona school</a></h3>
+<h3>:mortar_board: <a href="https://github.com/esordone/42_Piscina_2022">   42 Piscine</a></h3>
 <h3>:video_game: <a href="https://blai8.itch.io/ca-la-iaia">   Game: Ca la iaia</a></h3>
 <h3>Github stats</h3>
 
