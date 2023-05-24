@@ -7,7 +7,7 @@ I have also won numerous mural painting and poster design competitions. On the o
 
 
 I am currently continuing my work as painter and illustrator, and I'm studying programming with a scholarship at <a href="https://www.42barcelona.com/es/filosofia-42/" target="_blank" >42 Barcelona</a>.</p>
-My dream job would be nestled inside the <a href="https://www.ripess.org/what-is-sse/what-is-social-solidarity-economy/?lang=en" target="_blank" >Social Solidarity Economy</a>.</p>, including both of my passions in my work: art and computer programming.
+My dream job would be nestled inside the <a href="https://www.ripess.org/what-is-sse/what-is-social-solidarity-economy/?lang=en" target="_blank" >Social Solidarity Economy</a>, including both of my passions in my work: art and computer programming.</p>
   
 </div>
 <h2>Learning...</h2>
