@@ -30,8 +30,6 @@ I am currently continuing my work as painter and illustrator, and I'm studying p
 </ul>
 ## Github stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=esordone)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esordone&layout=compact&theme=dark&hide_border=true)
 
-![Caballosanex's github stats](https://github-readme-stats.vercel.app/api?username=esordone&show_icons=true&hide_border=true&theme=dark)
+![esordones's github stats](https://github-readme-stats.vercel.app/api?username=esordone&show_icons=true&hide_border=true&theme=dark)
