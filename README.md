@@ -24,4 +24,4 @@ My dream job would be nestled inside the <a href="https://www.ripess.org/what-is
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esordone&layout=compact&theme=dark&hide_border=true)
 
-![Caballosanex's github stats](https://github-readme-stats.vercel.app/api?username=esordone&show_icons=true&hide_border=true&theme=dark)
+![Estrellas's github stats](https://github-readme-stats.vercel.app/api?username=esordone&show_icons=true&hide_border=true&theme=dark)
