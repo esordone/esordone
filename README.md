@@ -11,8 +11,7 @@ My dream job would be nestled inside the <a href="https://www.ripess.org/what-is
   
 </div>
 <h2>Learning...</h2>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="C" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="C" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="C" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="C" width="40" height="40"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="C" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="C" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="C" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="C" width="40" height="40"></p>
 <h2>Projects</h2>
 <h3>:art:<a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">   Art Portfolio</a></h3>
 <h3>Programming projects</h3>
