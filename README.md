@@ -18,7 +18,7 @@ I am currently continuing my work as painter and illustrator, and I'm studying p
        <li><b><a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">Portfolio</b></a>: here you can see some of my recent art work, find some contact info and more fun stuff.</li>
   	</ul>
   </li>
-<h3>Projects I made in 42 Barcelona (They are all commented and explained)</h3>
+<h3>Programming projects</h3>
 <h3>:mortar_board: <a href="https://github.com/esordone/42_Cursus_Commented"> 42 Barcelona school</a></h3>
 <h3>Github stats</h3>
 
