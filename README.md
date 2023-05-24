@@ -26,9 +26,4 @@ I am currently continuing my work as painter and illustrator, and I'm studying p
       <li><b>Born2beroot:</b> creating a virtual machine server using Debian</li>
       <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/so_long">So_long</a></b>: 2D videogame</li>
       <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/push_swap">Push_swap</a></b>: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
-  	</ul></li>
-  <h3>My Art Portfolio</h3>
-  	<ul>
-       <li><b><a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">Portfolio</b></a>: here you can see some of my recent art work</li>
   	</ul>
-  </li>
