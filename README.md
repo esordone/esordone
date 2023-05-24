@@ -15,15 +15,15 @@ I am currently continuing my work as painter and illustrator, and I'm studying p
 </li>
   <h3>My Art Portfolio</h3>
   	<ul>
-       <li><b><a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">Portfolio</b></a>: here you can see some of my recent art work, find some contact info and more fun stuff</li>
+       <li><b><a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">Portfolio</b></a>: here you can see some of my recent art work, find some contact info and more fun stuff.</li>
   	</ul>
   </li>
 <h3>Projects I made in 42 Barcelona (They are all commented and explained)</h3>
 <ul>
-  		<li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/libft%20comentat">Libft</a></b>: project that replicates all functions of the C library</li>
-  		<li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/ft_printf%20comentat">ft_printf</a></b>: program that replicates printf</li>
-  		<li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/get_next_line%20comentat">Get next line</a></b>: project that reads from file descriptor line by line</li>
-      <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/Born2beroot">Born2beroot</a></b>: creating a virtual machine server using Debian</li>
-      <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/so_long">So_long</a></b>: 2D videogame</li>
-      <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/push_swap">Push_swap</a></b>: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
+  		<li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/libft%20comentat">Libft</a></b>: project that replicates all functions of the C library.</li>
+  		<li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/ft_printf%20comentat">ft_printf</a></b>: program that replicates printf.</li>
+  		<li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/get_next_line%20comentat">Get next line</a></b>: project that reads from file descriptor line by line.</li>
+      <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/Born2beroot">Born2beroot</a></b>: creating a virtual machine server using Debian.</li>
+      <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/so_long">So_long</a></b>: 2D videogame.</li>
+      <li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/push_swap">Push_swap</a></b>: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm.</li>
   	</ul>
