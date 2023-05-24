@@ -15,7 +15,7 @@ I am currently continuing my work as painter and illustrator, and I'm studying p
 </li>
   <h3>My Art Portfolio</h3>
   	<ul>
-       <li><b><a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">Portfolio</b></a>: here you can see some of my recent art work</li>
+       <li><b><a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">Portfolio</b></a>: here you can see some of my recent art work, find some contact info and more fun stuff</li>
   	</ul>
   </li>
 <h3>Projects I made in 42 Barcelona (They are all commented and explained)</h3>
