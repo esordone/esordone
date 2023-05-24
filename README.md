@@ -1,12 +1,12 @@
 <h1>🐝 Welcome to my Github! 🐝</h1>
 <div>
-<p>I am an artist based in Castellón. She studied Fine Arts at UPV in 2020. The following year, 2021, she finished the Master's Degree in Professor/a d'Educació Secundària en l'especialitat de Dibuix. Combining her studies, she worked as an instructor offering artistic workshops and made several audiovisual projects, such as documentaries, video clips or reports. 
+<p>I am an artist based in Castellón. I studied Fine Arts at UPV in 2020. The following year, 2021, I finished the Master's Degree in Professor/a d'Educació Secundària en l'especialitat de Dibuix. Combining my studies, I worked as an instructor offering artistic workshops and made several audiovisual projects, such as documentaries, video clips or reports. 
 
 
-She has also won numerous mural painting and poster design competitions. On the other hand, the artist has also participated as a speaker and as an assistant in several congresses, presenting the documentary: “Mestres de la Terra, el moviment Freinet al País Valencià”.
+I have also won numerous mural painting and poster design competitions. On the other hand, I have also participated as a speaker and as an assistant in several congresses, presenting the documentary: “Mestres de la Terra, el moviment Freinet al País Valencià”.
 
 
-She currently continues her work as, painter and illustrator, and is studying programming with a scholarship at school 42 Barcelona.</p>
+I am currently continuing my work as painter and illustrator, and I'm studying programming with a scholarship at school 42 Barcelona.</p>
 </div>
 <h2>Learning...</h2>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="C" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="C" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="C" width="40" height="40">
