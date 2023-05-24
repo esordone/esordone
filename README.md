@@ -12,12 +12,7 @@ I am currently continuing my work as painter and illustrator, and I'm studying p
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="C" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="C" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="C" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="C" width="40" height="40"></p>
 <h2>Projects</h2>
-</li>
-  <h3>My Art Portfolio</h3>
-  	<ul>
-       <li><b><a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">Portfolio</b></a>: here you can see some of my recent art work, find some contact info and more fun stuff.</li>
-  	</ul>
-  </li>
+<h3><b><a href="https://www.canva.com/design/DAE3Y2sYG8g/bjMp-fRZ6nnhysKIKRFDkQ/view?website#2:estrella-ord-ez-aguilar">Portfolio</b></a></h3>
 <h3>Programming projects</h3>
 <h3>:mortar_board: <a href="https://github.com/esordone/42_Cursus_Commented"> 42 Barcelona school</a></h3>
 <h3>:video_game: <a href="https://blai8.itch.io/ca-la-iaia">Game: Ca la iaia</a></h3>
